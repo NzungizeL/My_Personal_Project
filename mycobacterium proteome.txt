@@ -1,0 +1,65 @@
+
+1. Sequential inflammatory processes define human progression from M. tuberculosis infection to tuberculosis disease
+(Submitter supplied) To define mechanisms that underlie progression of Mycobacterium tuberculosis (M.tb) infection to active tuberculosis (TB), we followed M.tb-infected adolescents longitudinally. Those who ultimately developed TB disease (“progressors”) were compared with matched controls, who remained healthy. Whole blood transcriptomic and plasma proteome analyses showed sequential modulation of immunological processes: type I/II interferon signalling and complement cascade were elevated 18 months before TB diagnosis, while changes in myeloid inflammation and lymphoid cell, monocyte and neutrophil gene modules occurred more proximally to TB disease. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL11154 1650 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE103nnn/GSE103147/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA400331
+Series		Accession: GSE103147	ID: 200103147
+
+2. An integrated approach combining RNA-seq, Ribo-seq and Proteomics identifies the coding potential of Mycobacterium abscessus
+(Submitter supplied) The objective of this study is to develop an integrated map for the M. abscessus ATCC19977 organism. Among the data types contributing to the development of this map are next-generation RNA-sequencing, differential RNA-sequencing, ribosome profiling, and mass spectrometry.
+Organism:	Mycobacteroides abscessus ATCC 19977
+Type:		Expression profiling by high throughput sequencing
+Platforms: GPL20910 GPL20911 6 Samples
+FTP download: GEO (BED, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE72nnn/GSE72996/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA295556
+Series		Accession: GSE72996	ID: 200072996
+
+3. Profiling proteome-scale antibody responses to M. tuberculosis
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Homo sapiens; Mycobacterium tuberculosis H37Rv; Macaca fascicularis
+Type:		Protein profiling by protein array
+Platform: GPL9790 567 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE31nnn/GSE31368/
+Series		Accession: GSE31368	ID: 200031368
+
+4. Profiling proteome-scale antibody responses to M. tuberculosis proteins in TB suspect's sera
+(Submitter supplied) Human infection with Mycobacterium tuberculosis results in a continuum of ill-defined, clinical manifestations with stable latent M. tuberculosis infection (LTBI) and severe active disease at the ends.  Identifying different states of infection is of importance to tuberculosis (TB) control since risk of developing active disease varies among different asymptomatic states while infectiousness varies among patients with different bacterial burden. more...
+Organism:	Mycobacterium tuberculosis H37Rv; Homo sapiens
+Type:		Protein profiling by protein array
+Platform: GPL9790 411 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE30nnn/GSE30722/
+Series		Accession: GSE30722	ID: 200030722
+
+5. Profiling proteome-scale antibody responses to M. tuberculosis proteins in sera of macaques infected with M. tuberculosis
+(Submitter supplied) Human infection with Mycobacterium tuberculosis results in a continuum of ill-defined, clinical manifestations with stable latent M. tuberculosis infection (LTBI) and severe active disease at the ends.  Identifying different states of infection is of importance to tuberculosis (TB) control since risk of developing active disease varies among different asymptomatic states while infectiousness varies among patients with different bacterial burden. more...
+Organism:	Mycobacterium tuberculosis H37Rv; Macaca fascicularis
+Type:		Protein profiling by protein array
+Platform: GPL9790 156 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE30nnn/GSE30721/
+Series		Accession: GSE30721	ID: 200030721
+
+6. Profiling antibody responses to M. tuberculosis proteins in TB suspects’ sera using full-proteome microarrays.
+(Submitter supplied) Understanding the immune response to tuberculosis requires greater knowledge of humoral responses.  To characterize antibody targets and the effect of disease parameters on target recognition, we developed a systems immunology approach that integrated detection of antibodies against the entire Mycobacterium tuberculosis proteome, bacterial metabolic and regulatory pathway information, and patient data. more...
+Organism:	Mycobacterium tuberculosis H37Rv; Homo sapiens
+Type:		Protein profiling by protein array
+Platform: GPL9790 625 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE19nnn/GSE19433/
+Series		Accession: GSE19433	ID: 200019433
+
+7. M. tuberculosis-M. bovis transcriptional comparison
+(Submitter supplied) We used microarray hybridization to compare the total in vitro transcriptome of M. bovis and M. tuberculosis H37Rv. Our aim was to get a global view on the differences of gene expression between these pathogens as a mean to identify the genetic basis for their distinct phenotypes.Differential expression was detected in 258 genes, representing a 6% of the total genome. Of these, 13 genes were further confirmed by quantitative RT-PCR. more...
+Organism:	Mycobacterium tuberculosis variant bovis; Mycobacterium tuberculosis
+Type:		Expression profiling by array
+Platform: GPL4057 4 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE6nnn/GSE6889/
+Series		Accession: GSE6889	ID: 200006889
+
+8. Mycobacterium tuberculosis H37Rv proteome microarray
+(Submitter supplied) This platform is a virtual representation of two .gal versions (see supplementary files). Protocol: http://www.immport-inc.com/technology.php
+Organism:	Mycobacterium tuberculosis H37Rv
+4 Series 1192 Samples
+FTP download: GEO (GAL) ftp://ftp.ncbi.nlm.nih.gov/geo/platforms/GPL9nnn/GPL9790/
+Platform	Accession: GPL9790	ID: 100009790

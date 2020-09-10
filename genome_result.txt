@@ -1,0 +1,1137 @@
+
+1. Mycobacterium tuberculosis
+Causative agent of tuberculosis
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 166
+
+2. Mycobacterium
+Group of uncharacterized isolates
+Kingdom: Bacteria
+Chromosome: 1
+Plasmids: 3
+Genome ID: 13563
+
+3. Mycobacterium avium
+Environmental organism which causes infections in birds and humans
+Kingdom: Bacteria
+Chromosome: 1
+Plasmids: 4
+Genome ID: 160
+
+4. Mycobacterium tuberculosis variant africanum
+Mycobacterium africanum overview
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 10238
+
+5. Mycobacterium tuberculosis variant bovis
+Causative agent of classic bovine tuberculosis
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 161
+
+6. Mycobacterium canettii
+Mycobacterium canettii overview
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 10626
+
+7. Mycobacterium intracellulare
+Mycobacterium intracellulare overview
+Kingdom: Bacteria
+Chromosome: 1
+Plasmids: 1
+Genome ID: 1703
+
+8. Mycobacterium marinum
+Causes systemic infection in fish and skin infections in humans
+Kingdom: Bacteria
+Chromosome: 1
+Plasmids: 1
+Genome ID: 756
+
+9. Mycobacterium leprae
+Causative agent of human leprosy.
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 903
+
+10. Mycobacterium ulcerans
+Causative agent of Buruli and Bairnsdale ulcer
+Kingdom: Bacteria
+Chromosome: 1
+Plasmids: 1
+Genome ID: 504
+
+11. Mycobacterium kansasii
+Mycobacterium kansasii overview
+Kingdom: Bacteria
+Chromosome: 1
+Plasmids: 1
+Genome ID: 1793
+
+12. Mycobacterium xenopi
+Mycobacterium xenopi overview
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 13311
+
+13. Mycobacterium colombiense
+Mycobacterium colombiense overview
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 6864
+
+14. Mycobacterium liflandii
+Mycobacterium liflandii overview
+Kingdom: Bacteria
+Chromosome: 1
+Plasmids: 1
+Genome ID: 1604
+
+15. Mycobacterium intracellulare subsp. intracellulare
+Mycobacterium indicus pranii overview
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 11217
+
+16. Mycobacterium tuberculosis variant microti
+Causes tuberculosis in cattle and rodents
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 11052
+
+17. Mycobacterium parascrofulaceum
+Mycobacterium parascrofulaceum overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 2034
+
+18. Mycobacterium orygis
+Mycobacterium orygis overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 16944
+
+19. Mycobacterium intracellulare subsp. yongonense
+Mycobacterium yongonense overview
+Kingdom: Bacteria
+Chromosome: 1
+Plasmids: 2
+Genome ID: 16669
+
+20. Mycobacterium arosiense
+Mycobacterium arosiense overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 15729
+
+21. Mycobacterium asiaticum
+Mycobacterium asiaticum overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 15727
+
+22. Mycobacterium bohemicum
+Mycobacterium bohemicum overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 15135
+
+23. Mycobacterium simiae
+Mycobacterium simiae overview
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 15134
+
+24. Mycobacterium haemophilum
+Mycobacterium haemophilum overview
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 13085
+
+25. Mycobacterium pseudoshottsii
+Mycobacterium pseudoshottsii overview
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 12445
+
+26. Mycobacterium genavense
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 31061
+
+27. Mycobacterium gastri
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 30979
+
+28. Mycobacterium shigaense
+Mycobacterium shigaense overview
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 58544
+
+29. Mycobacterium eburneum
+Mycobacterium eburneum overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 76483
+
+30. Mycobacterium paragordonae
+Mycobacterium paragordonae overview
+Kingdom: Bacteria
+Chromosome: 1
+Plasmids: 4
+Genome ID: 72753
+
+31. Mycobacterium tuberculosis variant pinnipedii
+Mycobacterium pinnipedii overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 67436
+
+32. Mycobacterium grossiae
+Mycobacterium grossiae overview
+Kingdom: Bacteria
+Chromosome: 1
+Plasmids: 1
+Genome ID: 62329
+
+33. Mycobacterium dioxanotrophicus
+Mycobacterium dioxanotrophicus overview
+Kingdom: Bacteria
+Chromosome: 1
+Plasmids: 4
+Genome ID: 56823
+
+34. Mycobacterium malmoense
+Mycobacterium malmoense overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 45560
+
+35. Mycobacterium gordonae
+Mycobacterium gordonae overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 40857
+
+36. Mycobacterium chimaera
+Mycobacterium chimaera overview
+Kingdom: Bacteria
+Chromosome: 1
+Plasmids: 5
+Genome ID: 40398
+
+37. Mycobacterium heckeshornense
+Mycobacterium heckeshornense overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 38785
+
+38. Mycobacterium nebraskense
+Mycobacterium nebraskense overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 36879
+
+39. Mycobacterium lepromatosis
+Mycobacterium lepromatosis overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 36766
+
+40. Mycobacterium kyorinense
+Mycobacterium kyorinense overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 34053
+
+41. Mycobacterium triplex
+Mycobacterium triplex overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 31963
+
+42. Mycobacterium celatum
+Mycobacterium celatum overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 16412
+
+43. Mycobacterium tuberculosis variant caprae
+Mycobacterium caprae overview
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 16339
+
+44. Mycobacterium numidiamassiliense
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 91825
+
+45. Mycobacterium rhizamassiliense
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 91824
+
+46. Mycobacterium terramassiliense
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 91823
+
+47. Mycobacterium palauense
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 87699
+
+48. Mycobacterium neglectum
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 87698
+
+49. Mycobacterium stomatepiae
+
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 87417
+
+50. Mycobacterium seoulense
+
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 87416
+
+
+51. Mycobacterium shottsii
+
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 87412
+
+52. Mycobacterium cookii
+
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 87410
+
+53. Mycobacterium gallinarum
+
+Kingdom: Bacteria
+Chromosome: 1
+Plasmids: 1
+Genome ID: 87409
+
+54. Mycobacterium novum
+
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 87408
+
+55. Mycobacterium bourgelatii
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 87404
+
+56. Mycobacterium botniense
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 87403
+
+57. Mycobacterium tilburgii
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 83055
+
+58. Mycobacterium attenuatum
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 79101
+
+59. Mycobacterium innocens
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 79100
+
+60. Mycobacterium pseudokansasii
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 79099
+
+61. Mycobacterium basiliense
+
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 76113
+
+62. Mycobacterium syngnathidarum
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 72635
+
+63. Mycobacterium decipiens
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 72331
+
+64. Mycobacterium uberis
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 71565
+
+65. Mycobacterium ahvazicum
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 70273
+
+66. Mycobacterium montefiorense
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 69299
+
+67. Mycobacterium neumannii
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 62549
+
+68. Mycobacterium lehmannii
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 62548
+
+69. Mycobacterium lepraemurium
+
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 56906
+
+70. Mycobacterium aquaticum
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 56404
+
+71. Mycobacterium talmoniae
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 56210
+
+72. Mycobacterium persicum
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 55625
+
+73. Mycobacterium lacus
+
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 54219
+
+74. Mycobacterium parmense
+
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 54218
+
+75. Mycobacterium fragae
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 54216
+
+76. Mycobacterium riyadhense
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 54215
+
+77. Mycobacterium conspicuum
+
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 54214
+
+78. Mycobacterium palustre
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 54210
+
+79. Mycobacterium saskatchewanense
+
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 54209
+
+80. Mycobacterium kubicae
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 54206
+
+81. Mycobacterium paraense
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 54205
+
+82. Mycobacterium florentinum
+
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 54202
+
+83. Mycobacterium timonense
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 54036
+
+84. Mycobacterium shinjukuense
+
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 54035
+
+85. Mycobacterium alsense
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 54034
+
+86. Mycobacterium branderi
+
+Kingdom: Bacteria
+Chromosome: 1
+Plasmids: 1
+Genome ID: 54033
+
+87. Mycobacterium paraseoulense
+
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 54032
+
+88. Mycobacterium noviomagense
+
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 54030
+
+89. Mycobacterium marseillense
+
+Kingdom: Bacteria
+Chromosome: 1
+Plasmids: 1
+Genome ID: 54027
+
+90. Mycobacterium mantenii
+
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 54026
+
+91. Mycobacterium heidelbergense
+
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 54024
+
+92. Mycobacterium bouchedurhonense
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 54022
+
+93. Mycobacterium angelicum
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 54021
+
+94. Mycobacterium paraintracellulare
+
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 53912
+
+95. Mycobacterium paraffinicum
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 50949
+
+96. Mycobacterium shimoidei
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 46013
+
+97. Mycobacterium sherrisii
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 46010
+
+98. Mycobacterium intermedium
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 46008
+
+99. Mycobacterium scrofulaceum
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 45197
+
+100. Mycobacterium szulgai
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 45196
+
+
+101. Mycobacterium mungi
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 45028
+
+102. Mycobacterium interjectum
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 44420
+
+103. Mycobacterium europaeum
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 40771
+
+104. Mycobacterium lentiflavum
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 40769
+
+105. Mycobacterium vulneris
+
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 31601
+
+106. Mycobacteroides abscessus
+Environmental bacterium that causes lung, wound, and skin infections
+Kingdom: Bacteria
+Chromosome: 1
+Plasmids: 2
+Genome ID: 1360
+
+107. Mycobacteroides chelonae
+Environmental bacterium that causes wound, cornea, and skin infections
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 11088
+
+108. [Mycobacterium] stephanolepidis
+Complete Genome Sequence of Mycobacterium stephanolepidis.
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 58545
+
+109. Mycolicibacterium chubuense
+Mycobacterium chubuense overview
+Kingdom: Bacteria
+Chromosome: 1
+Plasmids: 2
+Genome ID: 11393
+
+110. Mycolicibacterium tusciae
+Environmental mycobacterium
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 11379
+
+111. Mycolicibacterium vanbaalenii
+Polycyclic aromatic hydrocarbon-degrading bacterium
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 1376
+
+112. Mycobacterium phage Taj
+Mycobacterium phage Taj RefSeq Genome
+Kingdom: Viruses
+Chromosome: 1
+Genome ID: 34506
+
+113. Mycobacterium phage Soto
+Mycobacterium phage Soto RefSeq Genome
+Kingdom: Viruses
+Chromosome: 1
+Genome ID: 34502
+
+114. Mycobacterium phage RedRock
+Mycobacterium phage RedRock RefSeq Genome
+Kingdom: Viruses
+Chromosome: 1
+Genome ID: 34487
+
+115. Mycobacterium virus LHTSCC
+Mycobacterium phage LHTSCC RefSeq Genome
+Kingdom: Viruses
+Chromosome: 1
+Genome ID: 31674
+
+116. Mycobacterium phage Bane2
+Mycobacterium phage Bane2 RefSeq Genome
+Kingdom: Viruses
+Chromosome: 1
+Genome ID: 22535
+
+117. Mycobacterium phage SargentShorty9
+Mycobacterium phage SargentShorty9 RefSeq Genome
+Kingdom: Viruses
+Chromosome: 1
+Genome ID: 22526
+
+118. Mycobacterium phage Reprobate
+Mycobacterium phage Reprobate RefSeq Genome
+Kingdom: Viruses
+Chromosome: 1
+Genome ID: 22404
+
+119. Mycobacterium phage DNAIII
+Mycobacterium phage DNAIII RefSeq Genome
+Kingdom: Viruses
+Chromosome: 1
+Genome ID: 21512
+
+120. Mycobacterium phage Breezona
+Mycobacterium phage Breezona RefSeq Genome
+Kingdom: Viruses
+Chromosome: 1
+Genome ID: 17849
+
+121. Mycobacterium phage SDcharge11
+Mycobacterium phage SDcharge11 RefSeq Genome
+Kingdom: Viruses
+Chromosome: 1
+Genome ID: 17842
+
+122. Mycolicibacterium gilvum Spyr1
+Mycobacterium gilvum Spyr1 overview
+Kingdom: Bacteria
+Chromosome: 1
+Plasmids: 2
+Genome ID: 1716
+
+123. Mycolicibacterium smegmatis
+Causes opportunistic infections
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 1026
+
+124. Mycolicibacterium sphagni
+Mycobacterium sphagni overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 56087
+
+125. Mycolicibacterium litorale
+Mycobacterium litorale overview
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 53255
+
+126. Mycolicibacterium wolinskyi
+Mycobacterium wolinskyi overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 42851
+
+127. Mycolicibacterium peregrinum
+Mycobacterium peregrinum overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 40808
+
+128. Mycolicibacterium rutilum
+Mycobacterium rutilum overview
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 40597
+
+129. Mycolicibacterium pallens
+Mycobacterium pallens overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 40596
+
+130. Mycolicibacterium goodii
+Mycobacterium goodii overview
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 39062
+
+131. Mycolicibacterium conceptionense
+Mycobacterium conceptionense overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 38781
+
+132. Mycolicibacter sinensis
+Mycolicibacter sinensis strain:JDM601 Genome sequencing
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 38561
+
+133. Mycolicibacterium senegalense
+Mycobacterium senegalense overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 38264
+
+134. Mycolicibacterium elephantis
+Mycobacterium elephantis overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 38155
+
+135. Mycolicibacterium obuense
+Mycobacterium obuense overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 37007
+
+136. Mycobacteroides immunogenum
+Mycobacterium immunogenum overview
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 36202
+
+137. Mycolicibacterium llatzerense
+Mycobacterium llatzerense overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 36201
+
+138. Mycolicibacterium setense
+Mycobacterium setense overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 35482
+
+139. Mycolicibacterium rufum
+Mycobacterium rufum overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 34109
+
+140. Mycolicibacterium aromaticivorans
+Mycobacterium aromaticivorans overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 31080
+
+141. Mycolicibacterium iranicum
+Mycobacterium iranicum overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 30520
+
+142. Mycolicibacterium septicum
+Mycobacterium septicum overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 18111
+
+143. Mycolicibacterium neoaurum
+Mycobacterium neoaurum overview
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 15728
+
+144. Mycolicibacterium holsaticum
+Mycobacterium holsaticum overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 15326
+
+145. Mycolicibacterium farcinogenes
+Mycobacterium farcinogenes overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 15156
+
+146. Mycolicibacterium mucogenicum
+Mycobacterium mucogenicum overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 14952
+
+147. Mycolicibacterium monacense
+Mycobacterium monacense overview
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 14951
+
+148. Mycolicibacterium chlorophenolicum
+Mycobacterium chlorophenolicum overview
+Kingdom: Bacteria
+
+Chromosomes:  no data
+                
+Genome ID: 14901
+
+149. Mycolicibacterium fortuitum
+Mycobacterium fortuitum overview
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 14575
+
+150. Mycolicibacterium hassiacum
+Mycobacterium hassiacum overview
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 14237
+
+
+151. Mycolicibacterium vaccae
+Mycobacterium vaccae overview
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 14056
+
+152. Mycolicibacterium phlei
+Mycobacterium phlei overview
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 13312
+
+153. Mycolicibacterium mageritense
+Mycobacterium mageritense overview
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 11759
+
+154. Mycolicibacterium thermoresistibile
+Mycobacterium thermoresistibile overview
+Kingdom: Bacteria
+Chromosome: 1
+Genome ID: 11701
+
+155. Mycobacterium phage Chah
+Mycobacterium phage Chah
+Kingdom: Viruses
+Chromosome: 1
+Genome ID: 6311
+
+156. Mycobacterium phage Butterscotch
+Mycobacterium phage Butterscotch
+Kingdom: Viruses
+Chromosome: 1
+Genome ID: 6304
+
+157. Mycobacterium phage Adjutor
+Mycobacterium phage Adjutor
+Kingdom: Viruses
+Chromosome: 1
+Genome ID: 6205
+
+158. Mycobacterium phage BPs
+Mycobacterium phage BPs
+Kingdom: Viruses
+Chromosome: 1
+Genome ID: 6204
+
+159. Mycobacterium phage PG1
+Mycobacterium phage PG1 RefSeq Other
+Kingdom: Viruses
+Chromosome: 1
+Genome ID: 4564
+
+160. Mycobacteroides abscessus subsp. bolletii
+Mycobacterium massiliense overview
+Kingdom: Bacteria
+Chromosome: 1
+Plasmids: 2
+Genome ID: 3639
+
